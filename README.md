@@ -14,6 +14,7 @@ Change the code to use the ++ operator on myVar.
 myVar should equal 88.
 You should not use the assignment operator.
                     ANSWER
+let myVar = 87;
 
-
+// Only change code below this line
 myVar ++;
