@@ -17,4 +17,5 @@ You should not use the assignment operator.
 let myVar = 87;
 
 // Only change code below this line
+
 myVar ++;
